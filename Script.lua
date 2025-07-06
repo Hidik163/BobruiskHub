@@ -1,1 +1,1 @@
-print("tex rabota...")
+print("poka ne robit")
